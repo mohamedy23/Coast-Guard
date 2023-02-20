@@ -45,3 +45,5 @@ required strategies :
 * d) Greedy search with at least two heuristics.
 * e) A∗ search with at least two admissible heuristics. A trivial heuristic (e.g.h(n) = 1)
 * is not acceptable.
+
+# For more details, please refer to the report.
