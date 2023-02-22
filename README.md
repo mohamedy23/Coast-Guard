@@ -1,4 +1,4 @@
-# Brief Description
+# Brief Description 
 We are a member of the coast guard force in charge of a rescue boat that goes
 into the sea to rescue other sinking ships. The area in the sea that we can navigate
 is an (𝑚 × 𝑛) grid of cells where 5 ≤ 𝑚; 𝑛 ≤ 15. Every action we take will have
